@@ -1,0 +1,35 @@
+{
+  "guild_id": 123456789012345678,
+  "manager_role_ids": [123456789012345678],
+  "officer_role_ids": [123456789012345679],
+  "voice_targets": [
+    {"name": "Squad 1", "bot_index": 1, "channel_id": 123456789012345680},
+    {"name": "Squad 2", "bot_index": 2, "channel_id": 123456789012345681},
+    {"name": "Squad 3", "bot_index": 3, "channel_id": 123456789012345682},
+    {"name": "Squad 4", "bot_index": 4, "channel_id": 123456789012345683},
+    {"name": "Squad 5", "bot_index": 5, "channel_id": 123456789012345684},
+    {"name": "Squad 6", "bot_index": 6, "channel_id": 123456789012345685}
+  ],
+  "audio_map": {
+    "forest_25_40": "assets/audio/forest_25_40.mp3",
+    "forest_25_30": "assets/audio/forest_25_30.mp3",
+    "forest_25_10": "assets/audio/forest_25_10.mp3",
+    "forest_25_spawn": "assets/audio/forest_25_spawn.mp3",
+    "forest_20_40": "assets/audio/forest_20_40.mp3",
+    "forest_20_30": "assets/audio/forest_20_30.mp3",
+    "forest_20_10": "assets/audio/forest_20_10.mp3",
+    "forest_20_spawn": "assets/audio/forest_20_spawn.mp3",
+    "forest_15_40": "assets/audio/forest_15_40.mp3",
+    "forest_15_30": "assets/audio/forest_15_30.mp3",
+    "forest_15_10": "assets/audio/forest_15_10.mp3",
+    "forest_15_spawn": "assets/audio/forest_15_spawn.mp3",
+    "forest_10_40": "assets/audio/forest_10_40.mp3",
+    "forest_10_30": "assets/audio/forest_10_30.mp3",
+    "forest_10_10": "assets/audio/forest_10_10.mp3",
+    "forest_10_spawn": "assets/audio/forest_10_spawn.mp3",
+    "forest_5_40": "assets/audio/forest_5_40.mp3",
+    "forest_5_30": "assets/audio/forest_5_30.mp3",
+    "forest_5_10": "assets/audio/forest_5_10.mp3",
+    "forest_5_spawn": "assets/audio/forest_5_spawn.mp3"
+  }
+}
